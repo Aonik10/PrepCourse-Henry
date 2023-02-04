@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo 2 del prep course de henry
+Emiliano Martin Pellegrino
+Este proyecto es una prueba de como cloanr un repo de github hacia mi repositorio local
